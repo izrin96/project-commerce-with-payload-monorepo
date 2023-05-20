@@ -1,0 +1,14 @@
+{
+  "name": "eslint-config-custom",
+  "version": "0.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "eslint-config-next": "^13.4.3",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-react": "7.32.2",
+    "eslint-config-turbo": "^1.9.8"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
